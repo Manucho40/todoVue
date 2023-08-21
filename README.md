@@ -1,24 +1,7 @@
-# todoange
+# todoVue
 
-## Project setup
-```
-npm install
-```
+## OBJECTIF
+TodoList réalisée dans le cadre de ma découverte du framework Vuejs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## STACK
+- VUEJS
